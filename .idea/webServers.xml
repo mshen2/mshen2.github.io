@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f7fdd23e-664d-4506-9375-155f3a42e9d3" name="bill@ink-molly.usc.edu">
+        <fileTransfer rootFolder="/home/bill" accessType="SFTP" host="ink-molly.usc.edu" port="22000" sshConfigId="9bf37299-264f-49ed-a42a-6783b92062f7" sshConfig="mingshen@ink-molly.usc.edu:22000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="dd2fb76f-4806-4abb-bd07-c83f17a355e5" name="mingshen@ink-molly.usc.ink">
+        <fileTransfer rootFolder="/home/mingshen/" accessType="SFTP" host="ink-molly.usc.edu" port="22000" sshConfigId="9bf37299-264f-49ed-a42a-6783b92062f7" sshConfig="mingshen@ink-molly.usc.edu:22000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
