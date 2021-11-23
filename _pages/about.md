@@ -19,7 +19,7 @@ B.S. of Computer Science, **Worcester Polytechnic Institute**, 2014-2018
 
 M.S. of Computer Science, **university of Southern California**, 2018-2020
 
-Ph.D. of Computer Science, **Arizona State University**, 2020-2025(expected)
+Ph.D. of Computer Science, **Arizona State University**, 2020-2025 (expected)
 
 
 Publication
@@ -70,10 +70,10 @@ Other Projects
 Awards And Honors
 ======
 2020 - Present: University Doctoral Fellowship, Arizona State University \
-2020: CIDSE Doctoral Fellowship, Arizona State University
+2020:           CIDSE Doctoral Fellowship, Arizona State University
 
 
 Skills
 ======
 <em>Programming Languages</em>: Python, Java, C, JavaScript, HTML, CSS \
-<em>Software Tools</em>: PyTorch, Tensorflow, Transformers, Fairseq, Scikit Learn, Numpy, Pandas
+<em>Software Tools</em>:        PyTorch, Tensorflow, Transformers, Fairseq, Scikit Learn, Numpy, Pandas
