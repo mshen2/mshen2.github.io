@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a second-year Ph.D. student at Arizona State University, advised by [Prof. Chitta Baral](https://www.markdownguide.org) in the [Cognition and Intelligence Lab](https://cogintlab-asu.
-github.io/) \
+github.io/). \
 I have broad interests in natural language processing with a focus on unsupervised learning, commonsense reasoning, question answering, and information extraction.   
 
 
