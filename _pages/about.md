@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at Arizona State University, advised by [Prof. Chitta Baral](https://www.markdownguide.org)  
+I am currently a second-year Ph.D. student at Arizona State University, advised by [Prof. Chitta Baral](https://www.markdownguide.org) in the [Cognition and Intelligence Lab](https://cogintlab-asu.
+github.io/) \
+I have broad interests in natural language processing with a focus on unsupervised learning, commonsense reasoning, question answering, and information extraction.   
 
 
 Education
@@ -22,16 +24,16 @@ Ph.D. of Computer Science, **Arizona State University**, 2020-2025(expected)
 
 Publication
 ======
-[Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction](https://aclanthology.org/2021.acl-short.117.pdf)
-*Ming Shen\**, Pratyay Banerjee, and Chitta Baral
+[Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction](https://aclanthology.org/2021.acl-short.117.pdf) \
+*Ming Shen\**, Pratyay Banerjee, and Chitta Baral \
 <em>in Proceedings of ACL-IJCNLP 2021</em>
 
-[CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.165.pdf)
-Bill Yuchen Lin\*, Wangchunshu Zhou\*, **Ming Shen**, Pei Zhou, Chandra Bhagavatula, Yejin Choi, and Xiang Ren
+[CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.165.pdf) \
+Bill Yuchen Lin\*, Wangchunshu Zhou\*, **Ming Shen**, Pei Zhou, Chandra Bhagavatula, Yejin Choi, and Xiang Ren \
 <em>in Findings of EMNLP 2020</em>
 
-[TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition](https://aclanthology.org/2020.acl-main.752.pdf)
-Bill Yuchen Lin\*, Dong-Ho Lee\*, **Ming Shen**, Ryan Moreno, Xiao Huang, Prashant Shiralkar, and Xiang Ren
+[TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition](https://aclanthology.org/2020.acl-main.752.pdf) \
+Bill Yuchen Lin\*, Dong-Ho Lee\*, **Ming Shen**, Ryan Moreno, Xiao Huang, Prashant Shiralkar, and Xiang Ren \
 <em>in Proceedings of ACL-IJCNLP 2020</em>
 
 
@@ -67,11 +69,11 @@ Demo project for <em>ACL 2019 System Demonstrations</em> paper: [AlpacaTag: Acti
 
 Awards And Honors
 ======
-University Doctoral Fellowship, Arizona State University <div style="text-align: right"> 2020 - Present </div>
+University Doctoral Fellowship, Arizona State University <div align="right"> 2020 - Present </div>
 CIDSE Doctoral Fellowship, Arizona State University <div style="text-align: right"> 2020 </div>
 
 
 Skills
 ======
-Programming Languages: Python, Java, C, JavaScript, HTML, CSS
+Programming Languages: Python, Java, C, JavaScript, HTML, CSS \
 Software Tools: PyTorch, Tensorflow, Transformers, Fairseq, Scikit Learn, Numpy, Pandas
