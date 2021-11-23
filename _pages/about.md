@@ -57,7 +57,7 @@ May 2019 - May. 2020: Research Assistant
 - Focus on multiple research projects in information extraction and commonsense reasoning domain
 
 
-Other Projects
+Projects
 ======
 - Demo project for <em>ACL 2019 System Demonstrations</em> paper: [AlpacaTag: Active Learning-based Crowd Annotation Framework for Sequence Tagging](https://inklab.usc.edu/AlpacaTag/)
   - An open-source web-based data annotation framework for sequence tagging tasks, such as named-entity recognition (NER).
