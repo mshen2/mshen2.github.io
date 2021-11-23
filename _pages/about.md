@@ -59,12 +59,12 @@ May 2019 - May. 2020: Research Assistant
 
 Other Projects
 ======
-Demo project for <em>ACL 2019 System Demonstrations</em> paper: [AlpacaTag: Active Learning-based Crowd Annotation Framework for Sequence Tagging](https://inklab.usc.edu/AlpacaTag/)
-- An open-source web-based data annotation framework for sequence tagging tasks, such as named-entity recognition (NER).
-- Project is based on the UI fraemwork [Doccano](https://github.com/doccano/doccano), while enjoys three distinctive novel features:
-    - <em>Active intelligent recommendation</em>: Dynamically provides the most informative unlabeled instance with suggested tagging for users to label with a back-end active learned model.
-    - <em>Automatic crowd consolidation</em>: Enhances real-time inter-annotators agreement by merging inconsistent labels from multiple annotators.
-    - <em>Real-time model deployment</em>: Users can deploy their models in downstream systems while new annotations are being made.
+- Demo project for <em>ACL 2019 System Demonstrations</em> paper: [AlpacaTag: Active Learning-based Crowd Annotation Framework for Sequence Tagging](https://inklab.usc.edu/AlpacaTag/)
+  - An open-source web-based data annotation framework for sequence tagging tasks, such as named-entity recognition (NER).
+  - Project is based on the UI fraemwork [Doccano](https://github.com/doccano/doccano), while enjoys three distinctive novel features:
+      - <em>Active intelligent recommendation</em>: Dynamically provides the most informative unlabeled instance with suggested tagging for users to label with a back-end active learned model.
+      - <em>Automatic crowd consolidation</em>: Enhances real-time inter-annotators agreement by merging inconsistent labels from multiple annotators.
+      - <em>Real-time model deployment</em>: Users can deploy their models in downstream systems while new annotations are being made.
 
 
 Awards And Honors
