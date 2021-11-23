@@ -69,11 +69,11 @@ Demo project for <em>ACL 2019 System Demonstrations</em> paper: [AlpacaTag: Acti
 
 Awards And Honors
 ======
-University Doctoral Fellowship, Arizona State University <div align="right"> 2020 - Present </div>
-CIDSE Doctoral Fellowship, Arizona State University <div style="text-align: right"> 2020 </div>
+2020 - Present: University Doctoral Fellowship, Arizona State University \
+2020: CIDSE Doctoral Fellowship, Arizona State University
 
 
 Skills
 ======
-Programming Languages: Python, Java, C, JavaScript, HTML, CSS \
-Software Tools: PyTorch, Tensorflow, Transformers, Fairseq, Scikit Learn, Numpy, Pandas
+<em>Programming Languages</em>: Python, Java, C, JavaScript, HTML, CSS \
+<em>Software Tools</em>: PyTorch, Tensorflow, Transformers, Fairseq, Scikit Learn, Numpy, Pandas
