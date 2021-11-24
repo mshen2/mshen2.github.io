@@ -25,7 +25,7 @@ Ph.D. of Computer Science, **Arizona State University**, 2020-2025 (expected)
 Publication
 ======
 [Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction](https://aclanthology.org/2021.acl-short.117.pdf) \
-*Ming Shen\**, Pratyay Banerjee, and Chitta Baral \
+**Ming Shen\***, Pratyay Banerjee\*, and Chitta Baral \
 <em>in Proceedings of ACL-IJCNLP 2021</em>
 
 [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.165.pdf) \
