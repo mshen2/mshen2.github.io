@@ -17,7 +17,7 @@ Education
 ======
 B.S. of Computer Science, **Worcester Polytechnic Institute**, 2014-2018
 
-M.S. of Computer Science, **university of Southern California**, 2018-2020
+M.S. of Computer Science, **University of Southern California**, 2018-2020
 
 Ph.D. of Computer Science, **Arizona State University**, 2020-2025 (expected)
 
