@@ -36,6 +36,10 @@ Bill Yuchen Lin\*, Wangchunshu Zhou\*, **Ming Shen**, Pei Zhou, Chandra Bhagavat
 Bill Yuchen Lin\*, Dong-Ho Lee\*, **Ming Shen**, Ryan Moreno, Xiao Huang, Prashant Shiralkar, and Xiang Ren \
 <em>in Proceedings of ACL-IJCNLP 2020</em>
 
+An Architecture for Novelty Handling in a Multi-Agent Stochastic Environment:Case Study in Open-World Monopoly \
+Tung Thai, **Ming Shen**, Neeraj Varshney, Sriram Gopalakrishnan, Utkarsh Soni, Matthias Scheutz, Chitta Baral, and Jivko Sinapov \
+<em>to Appear in Spring Symposium of AAAI 2022</em>
+
 
 Experince
 ======

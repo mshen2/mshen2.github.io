@@ -3,6 +3,9 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="ink-molly.usc.edu" id="9bf37299-264f-49ed-a42a-6783b92062f7" port="22000" nameFormat="DESCRIPTIVE" username="mingshen" />
+      <sshConfig authType="PASSWORD" host="agave.asu.edu" id="1fa4e6dc-a345-4b9a-8b28-7995c82718db" port="22" customName="agave2.asu.edu" nameFormat="CUSTOM" username="mshen16">
+        <option name="customName" value="agave2.asu.edu" />
+      </sshConfig>
     </configs>
   </component>
 </project>
