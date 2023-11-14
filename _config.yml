@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ming Shen"
 title_separator          : "-"
 name                     : &name "Ming Shen"
-description              : &description "Ph.D. Candidate at Arizona State University for testing"
+description              : &description "Ph.D. Candidate at Arizona State University"
 url                      : https://mshen2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mshen2.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ming Shen"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at Arizona State University"
+  bio              : "Ph.D. Candidate at Arizona State University testing"
   location         : "Tempe, Arizona"
   employer         :
   pubmed           :
