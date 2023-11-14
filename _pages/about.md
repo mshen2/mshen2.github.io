@@ -51,8 +51,7 @@ Tung Thai, **Ming Shen**, Neeraj Varshney, Sriram Gopalakrishnan, Utkarsh Soni, 
 Experince
 ======
 
-May. 2023 - Aug. 2023: Applied Scientist Internship
-[Amazon Bedrock](https://aws.amazon.com/bedrock/)
+May. 2023 - Aug. 2023: Applied Scientist Internship at [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 - Project: Multilingual instruction-following with LLMs
 - Mentors: Ling Liu and Jie Ma
 
