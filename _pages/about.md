@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at Arizona State University, advised by [Prof. Chitta Baral](https://www.markdownguide.org) in the [Cognition and Intelligence Lab](https://cogintlab-asu.
-github.io/). \
-I have broad interests in natural language processing with a focus on unsupervised learning, commonsense reasoning, question answering, and information extraction.   
+I am currently a fourth-year Ph.D. student at Arizona State University, advised by [Prof. Chitta Baral](https://www.markdownguide.org) in the [Cognition and Intelligence Lab](https://cogintlab-asu.github.io/). I have broad interests in natural language processing. My focus is developig zero-shot learning methods for various NLP tasks, including summarization, commonsense reasoning, question answering, and text classification. Recently, I am working on learning from instructions with LLMs.  
 
 
 Education
@@ -24,6 +22,11 @@ Ph.D. of Computer Science, **Arizona State University**, 2020-2025 (expected)
 
 Publication
 ======
+
+[Simple Yet Effective Synthetic Dataset Construction for Unsupervised Opinion Summarization](https://aclanthology.org/2023.findings-eacl.142.pdf) \
+**Ming Shen**, Jie Ma, Shuai Wang, Yogarshi Vyas, Kalpit Dixit, Miguel Ballesteros, Yassine Benajiba
+<em>in Findings of EACL 2023</em>
+
 [Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction](https://aclanthology.org/2021.acl-short.117.pdf) \
 **Ming Shen\***, Pratyay Banerjee\*, and Chitta Baral \
 <em>in Proceedings of ACL-IJCNLP 2021</em>
@@ -36,9 +39,13 @@ Bill Yuchen Lin\*, Wangchunshu Zhou\*, **Ming Shen**, Pei Zhou, Chandra Bhagavat
 Bill Yuchen Lin\*, Dong-Ho Lee\*, **Ming Shen**, Ryan Moreno, Xiao Huang, Prashant Shiralkar, and Xiang Ren \
 <em>in Proceedings of ACL-IJCNLP 2020</em>
 
-An Architecture for Novelty Handling in a Multi-Agent Stochastic Environment:Case Study in Open-World Monopoly \
+[Methods and Mechanisms for Interactive Novelty Handling in Adversarial Environments](https://arxiv.org/pdf/2302.14208.pdf) \
+Tung Thai, **Ming Shen**, Mayank Garg, Ayush Kalani, Nakul Vaidya, Utkarsh Soni, Mudit Verma, Sriram Gopalakrishnan, Chitta Baral, Subbarao Kambhampati, Jivko Sinapov, Matthias Scheutz \
+<em>in Proceedings of AAMAS 2023</em>
+
+[An Architecture for Novelty Handling in a Multi-Agent Stochastic Environment:Case Study in Open-World Monopoly](https://usc-isi-i2.github.io/AAAI2022SS/papers/SSS-22_paper_50.pdf) \
 Tung Thai, **Ming Shen**, Neeraj Varshney, Sriram Gopalakrishnan, Utkarsh Soni, Matthias Scheutz, Chitta Baral, and Jivko Sinapov \
-<em>to Appear in Spring Symposium of AAAI 2022</em>
+<em>in Proceedings of AAAI 2022 Symposium: Designing Artificial Intelligence for Open Worlds</em>
 
 
 Experince
