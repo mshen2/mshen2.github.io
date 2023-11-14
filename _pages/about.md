@@ -50,6 +50,17 @@ Tung Thai, **Ming Shen**, Neeraj Varshney, Sriram Gopalakrishnan, Utkarsh Soni, 
 
 Experince
 ======
+
+May. 2023 - Aug. 2023: Applied Scientist Internship
+[Amazon Bedrock](https://aws.amazon.com/bedrock/)
+- Project: Multilingual instruction-following with LLMs
+- Mentors: Ling Liu and Jie Ma
+
+May. 2022 - Aug. 2022: Applied Scientist Internship
+[Amazon Comprehend](https://aws.amazon.com/comprehend/)
+- Project: Unsupervised opinion summarization
+- Mentors: Jie Ma and Shuai Wang
+
 Aug. 2020 - Present: Graduate Research Associate
 [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
 - Work as graduate research associate supervised by Dr. Chitta Baral
@@ -72,10 +83,11 @@ Projects
 ======
 - Demo project for <em>ACL 2019 System Demonstrations</em> paper: [AlpacaTag: Active Learning-based Crowd Annotation Framework for Sequence Tagging](https://inklab.usc.edu/AlpacaTag/)
   - An open-source web-based data annotation framework for sequence tagging tasks, such as named-entity recognition (NER).
-  - Project is based on the UI fraemwork [Doccano](https://github.com/doccano/doccano), while enjoys three distinctive novel features:
+  - Dynamically provides the most informative unlabeled instance with suggested tagging for users to label with a back-end active learned model.
+  <!-- - Project is based on the UI fraemwork [Doccano](https://github.com/doccano/doccano), while enjoys three distinctive novel features:
       - <em>Active intelligent recommendation</em>: Dynamically provides the most informative unlabeled instance with suggested tagging for users to label with a back-end active learned model.
       - <em>Automatic crowd consolidation</em>: Enhances real-time inter-annotators agreement by merging inconsistent labels from multiple annotators.
-      - <em>Real-time model deployment</em>: Users can deploy their models in downstream systems while new annotations are being made.
+      - <em>Real-time model deployment</em>: Users can deploy their models in downstream systems while new annotations are being made. -->
 
 
 Awards And Honors
@@ -84,7 +96,11 @@ Awards And Honors
 2020:           CIDSE Doctoral Fellowship, Arizona State University
 
 
-Skills
+<!-- Skills
 ======
 <em>Programming Languages</em>: Python, Java, C, JavaScript, HTML, CSS \
-<em>Software Tools</em>:        PyTorch, Tensorflow, Transformers, Fairseq, Scikit Learn, Numpy, Pandas
+<em>Software Tools</em>:        PyTorch, Tensorflow, Transformers, Fairseq, Scikit Learn, Numpy, Pandas -->
+
+SERVICES
+======
+Reviewer: ACL Rolling Review, COLING, ACL, EMNLP
