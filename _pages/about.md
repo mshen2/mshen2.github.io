@@ -51,29 +51,25 @@ Tung Thai, **Ming Shen**, Neeraj Varshney, Sriram Gopalakrishnan, Utkarsh Soni, 
 Experince
 ======
 
-May. 2023 - Aug. 2023: Applied Scientist Internship at [Amazon Bedrock](https://aws.amazon.com/bedrock/)
+May. 2023 - Aug. 2023: Applied Scientist Internship @ [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 - Project: Multilingual instruction-following with LLMs
 - Mentors: Ling Liu and Jie Ma
 
-May. 2022 - Aug. 2022: Applied Scientist Internship
-[Amazon Comprehend](https://aws.amazon.com/comprehend/)
+May. 2022 - Aug. 2022: Applied Scientist Internship @ [Amazon Comprehend](https://aws.amazon.com/comprehend/)
 - Project: Unsupervised opinion summarization
 - Mentors: Jie Ma and Shuai Wang
 
-Aug. 2020 - Present: Graduate Research Associate
-[School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
+Aug. 2020 - Present: Graduate Research Associate @ [School of Computing and Augmented Intelligence, ASU](https://scai.engineering.asu.edu/)
 - Work as graduate research associate supervised by Dr. Chitta Baral
 - Focus on Monopoly and natural language domain under [DARPA SAIL-ON](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty) program
 - Aim to develop systems that quantify and characterize novelties in open-world domains and further react to those novelties. 
 
-Nov. 2019 - May 2020: Graduate Student Worker
-[Information Science Institute, USC](https://www.isi.edu/)
+Nov. 2019 - May 2020: Graduate Student Worker @ [Information Science Institute, USC](https://www.isi.edu/)
 - Work as graduate student worker supervised by Dr. Xiang Ren
 - Focus on [LESTAT](https://www.isi.edu/research_groups/nlg/projects) project under [DARPA KAIROS](https://www.darpa.mil/program/knowledge-directed-artificial-intelligence-reasoning-over-schemas) program
 - Aim to develop systems that discover event schemas temporally and transmodally for complex events
 
-May 2019 - May. 2020: Research Assistant
-[Intelligence and Knowledge Discovery Lab, USC](https://inklab.usc.edu/)
+May 2019 - May. 2020: Research Assistant @ [Intelligence and Knowledge Discovery Lab, USC](https://inklab.usc.edu/)
 - Work as research assistant supervised by Dr. Xiang Ren
 - Focus on multiple research projects in information extraction and commonsense reasoning domain
 
