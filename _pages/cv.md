@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://mshen2.github.io/files/CV.pdf) (Last update: Nov. 2021)
+Download [here](https://mshen2.github.io/files/CV.pdf)
