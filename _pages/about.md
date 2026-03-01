@@ -18,6 +18,17 @@ M.S. of Computer Science, University of Southern California, 2018-2020 \
 Ph.D. of Computer Science, Arizona State University, 2020-2026
 
 
+Experience
+======
+
+Sep. 2025 - Dec. 2025: Applied Scientist Internship @ Amazon, Seattle, Washington \
+May. 2024 - Aug. 2024: Applied Scientist Internship @ Amazon, New York, New York \
+May. 2023 - Aug. 2023: Applied Science Internship @ Amazon, New York, New York \
+May. 2022 - Aug. 2022: Applied Scientist Internship @ Amazon, New York, New York
+
+
+
+
 Publication
 ======
 
@@ -73,14 +84,6 @@ Tung Thai, **Ming Shen**, Mayank Garg, Ayush Kalani, Nakul Vaidya, Utkarsh Soni,
 Tung Thai, **Ming Shen**, Neeraj Varshney, Sriram Gopalakrishnan, Utkarsh Soni, Matthias Scheutz, Chitta Baral, and Jivko Sinapov \
 <em>in Proceedings of AAAI 2022 Symposium: Designing Artificial Intelligence for Open Worlds</em>
 
-
-Experience
-======
-
-Sep. 2025 - Dec. 2025: Applied Scientist Internship @ Amazon, Seattle, Washington \
-May. 2024 - Aug. 2024: Applied Scientist Internship @ Amazon, New York, New York \
-May. 2023 - Aug. 2023: Applied Science Internship @ Amazon, New York, New York \
-May. 2022 - Aug. 2022: Applied Scientist Internship @ Amazon, New York, New York
 
 
 Project
