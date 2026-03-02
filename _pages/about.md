@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Arizona State University, co-advised by [Prof. Chitta Baral](https://www.public.asu.edu/~cbaral/) and [Prof. Ben Zhou](http://xuanyu.me/). I am broadly interested in various topics related to natural language processing. My focus is on utilizing synthetic datasets to build effective NLP systems.
+I am a last-year Ph.D. student at Arizona State University, co-advised by [Prof. Chitta Baral](https://www.public.asu.edu/~cbaral/) and [Prof. Ben Zhou](http://xuanyu.me/). I am broadly interested in various topics related to natural language processing. My focus is on utilizing synthetic datasets to build effective NLP systems.
 
 
 Education
