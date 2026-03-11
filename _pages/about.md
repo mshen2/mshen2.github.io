@@ -32,11 +32,11 @@ May. 2022 - Aug. 2022: Applied Scientist Internship @ Amazon, New York, New York
 Publication
 ======
 
-[BOW: Reinforcement Learning for Bottlenecked Next-word Prediction](#) \
+[BOW: Reinforcement Learning for Bottlenecked Next-word Prediction](https://arxiv.org/pdf/2506.13502) \
 **Ming Shen\***, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou \
 <em>ArXiv, 2025</em>
 
-[Optimizing LLM-Based Multi-Agent System with Textual Feedback: A Case Study on Software Development](#) \
+[Optimizing LLM-Based Multi-Agent System with Textual Feedback: A Case Study on Software Development](https://arxiv.org/pdf/2505.16086) \
 **Ming Shen**, Raphael Shu, Anurag Pratik, James Gung, Yubin Ge, Monica Sunkara, Yi Zhang \
 <em>COLM 2025 Workshop on AI Agents: Capabilities and Safety</em>
 
@@ -44,7 +44,7 @@ Publication
 Zhikun Xu\*, **Ming Shen\***, Jacob Dineen, Zhaonan Li, Xiao Ye, Shijie Lu, Aswin RRV, Chitta Baral, Ben Zhou \
 <em>in Proceedings of NAACL 2025</em>
 
-[QA-LIGN: Aligning LLMs through Constitutionally Decomposed QA](#) \
+[QA-LIGN: Aligning LLMs through Constitutionally Decomposed QA](https://aclanthology.org/2025.findings-emnlp.1123.pdf) \
 Jacob Dineen, Aswin RRV, Qin Liu, Zhikun Xu, Xiao Ye, **Ming Shen**, Zhaonan Li, Shijie Lu, Chitta Baral, Muhao Chen, Ben Zhou \
 <em>in Findings of EMNLP 2025</em>
 
@@ -72,7 +72,7 @@ Bill Yuchen Lin\*, Wangchunshu Zhou\*, **Ming Shen**, Pei Zhou, Chandra Bhagavat
 Bill Yuchen Lin\*, Dong-Ho Lee\*, **Ming Shen**, Ryan Moreno, Xiao Huang, Prashant Shiralkar, and Xiang Ren \
 <em>in Proceedings of ACL-IJCNLP 2020</em>
 
-[Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications](#) \
+[Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications](https://arxiv.org/pdf/2510.17764) \
 Xiao Ye, Jacob Dineen, Zhaonan Li, Zhikun Xu, Weiyu Chen, Shijie Lu, Yuxi Huang, **Ming Shen**, Phu Tran, Ji-Eun Irene Yum, Muhammad Ali Khan, Muhammad Umar Afzal, Irbaz Bin Riaz, Ben Zhou \
 <em>ArXiv, 2025</em>
 
