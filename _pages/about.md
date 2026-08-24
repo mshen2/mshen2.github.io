@@ -34,7 +34,7 @@ Publication
 
 [BOW: Reinforcement Learning for Bottlenecked Next-word Prediction](https://arxiv.org/pdf/2506.13502) \
 **Ming Shen\***, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou \
-<em>ArXiv, 2025</em>
+<em>in Proceedings of EMNLP 2026</em>
 
 [Optimizing LLM-Based Multi-Agent System with Textual Feedback: A Case Study on Software Development](https://arxiv.org/pdf/2505.16086) \
 **Ming Shen**, Raphael Shu, Anurag Pratik, James Gung, Yubin Ge, Monica Sunkara, Yi Zhang \
