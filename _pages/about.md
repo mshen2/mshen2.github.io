@@ -20,7 +20,7 @@ Ph.D. of Computer Science, Arizona State University, 2020-2026
 
 Experience
 ======
-
+Sep. 2026 - Now: Applied Scientist @ Amazon, Seattle, Washington \
 Sep. 2025 - Dec. 2025: Applied Scientist Internship @ Amazon, Seattle, Washington \
 May. 2024 - Aug. 2024: Applied Scientist Internship @ Amazon, New York, New York \
 May. 2023 - Aug. 2023: Applied Science Internship @ Amazon, New York, New York \
@@ -32,7 +32,7 @@ May. 2022 - Aug. 2022: Applied Scientist Internship @ Amazon, New York, New York
 Publication
 ======
 
-[BOW: Reinforcement Learning for Bottlenecked Next-word Prediction](https://arxiv.org/pdf/2506.13502) \
+[BOW: Training Language Models to Reason Over Plausible Next Words](https://arxiv.org/pdf/2506.13502) \
 **Ming Shen\***, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou \
 <em>in Proceedings of EMNLP 2026</em>
 
