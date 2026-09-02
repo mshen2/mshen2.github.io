@@ -13,9 +13,9 @@ I am a last-year Ph.D. student at Arizona State University, co-advised by [Prof.
 
 Education
 ======
-B.S. of Computer Science, Worcester Polytechnic Institute, 2014-2018 \
-M.S. of Computer Science, University of Southern California, 2018-2020 \
-Ph.D. of Computer Science, Arizona State University, 2020-2026
+B.S. of Computer Science, Worcester Polytechnic Institute, 2014 — 2018 \
+M.S. of Computer Science, University of Southern California, 2018 — 2020 \
+Ph.D. of Computer Science, Arizona State University, 2020 — 2026
 
 
 Experience
@@ -31,6 +31,11 @@ May. 2022 - Aug. 2022: Applied Scientist Internship @ Amazon, New York, New York
 
 Publication
 ======
+
+[Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2608.03239) \
+**Ming Shen**, Chao Shang, Sadat Shahriar, Devang Kulshreshtha, Yi Zhang, Sandesh Swamy, Yanjun Qi \
+<em>arXiv, 2026</em>
+
 
 [BOW: Training Language Models to Reason Over Plausible Next Words](https://arxiv.org/pdf/2506.13502) \
 **Ming Shen\***, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou \
@@ -50,11 +55,11 @@ Jacob Dineen, Aswin RRV, Qin Liu, Zhikun Xu, Xiao Ye, **Ming Shen**, Zhaonan Li,
 
 [Rethinking Data Selection for Supervised Fine-Tuning](https://arxiv.org/abs/2402.06094) \
 **Ming Shen** \
-<em>ArXiv, 2024</em>
+<em>arXiv, 2024</em>
 
 [Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models](https://arxiv.org/abs/2310.00015) \
 Man Luo, Shrinidhi Kumbhar, **Ming Shen**, Mihir Parmar, Neeraj Varshney, Chitta Baral, Pratyay Banerjee, Somak Aditya \
-<em>ArXiv, 2023</em>
+<em>arXiv, 2023</em>
 
 [Simple Yet Effective Synthetic Dataset Construction for Unsupervised Opinion Summarization](https://aclanthology.org/2023.findings-eacl.142.pdf) \
 **Ming Shen**, Jie Ma, Shuai Wang, Yogarshi Vyas, Kalpit Dixit, Miguel Ballesteros, Yassine Benajiba \
@@ -74,7 +79,7 @@ Bill Yuchen Lin\*, Dong-Ho Lee\*, **Ming Shen**, Ryan Moreno, Xiao Huang, Prasha
 
 [Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications](https://arxiv.org/pdf/2510.17764) \
 Xiao Ye, Jacob Dineen, Zhaonan Li, Zhikun Xu, Weiyu Chen, Shijie Lu, Yuxi Huang, **Ming Shen**, Phu Tran, Ji-Eun Irene Yum, Muhammad Ali Khan, Muhammad Umar Afzal, Irbaz Bin Riaz, Ben Zhou \
-<em>ArXiv, 2025</em>
+<em>arXiv, 2025</em>
 
 [Methods and Mechanisms for Interactive Novelty Handling in Adversarial Environments](https://arxiv.org/pdf/2302.14208.pdf) \
 Tung Thai, **Ming Shen**, Mayank Garg, Ayush Kalani, Nakul Vaidya, Utkarsh Soni, Mudit Verma, Sriram Gopalakrishnan, Chitta Baral, Subbarao Kambhampati, Jivko Sinapov, Matthias Scheutz \
@@ -93,7 +98,7 @@ Project
 
 Awards And Honors
 ======
-2020 - Present: University Doctoral Fellowship, Arizona State University \
+2020 - 2026: University Doctoral Fellowship, Arizona State University \
 2020:           CIDSE Doctoral Fellowship, Arizona State University
 
 
