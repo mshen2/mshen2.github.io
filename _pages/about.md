@@ -32,14 +32,15 @@ May. 2022 - Aug. 2022: Applied Scientist Internship @ Amazon, New York, New York
 Publication
 ======
 
-[Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2608.03239) \
-**Ming Shen**, Chao Shang, Sadat Shahriar, Devang Kulshreshtha, Yi Zhang, Sandesh Swamy, Yanjun Qi \
-<em>arXiv, 2026</em>
-
 
 [BOW: Training Language Models to Reason Over Plausible Next Words](https://arxiv.org/pdf/2506.13502) \
 **Ming Shen\***, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou \
 <em>in Proceedings of EMNLP 2026</em>
+
+
+[Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2608.03239) \
+**Ming Shen**, Chao Shang, Sadat Shahriar, Devang Kulshreshtha, Yi Zhang, Sandesh Swamy, Yanjun Qi \
+<em>in Proceedings of AACL 2026</em>
 
 [Optimizing LLM-Based Multi-Agent System with Textual Feedback: A Case Study on Software Development](https://arxiv.org/pdf/2505.16086) \
 **Ming Shen**, Raphael Shu, Anurag Pratik, James Gung, Yubin Ge, Monica Sunkara, Yi Zhang \
