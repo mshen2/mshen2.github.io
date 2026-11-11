@@ -13,7 +13,7 @@ I’m an Applied Scientist at Amazon. I did my Ph.D. at Arizona State University
 # Publication
 
 [BOW: Training Language Models to Reason Over Plausible Next Words](https://aclanthology.org/2026.emnlp-main.852.pdf)   
-Ming Shen, Zhikun Xu, Jacob Dineen, Xiao Ye, Ben Zhou   
+Ming Shen\*, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou   
 *in Proceedings of EMNLP 2026*
 
 [Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](https://aclanthology.org/2026.aacl-long.3.pdf)   
@@ -25,7 +25,7 @@ Ming Shen, Raphael Shu, Anurag Pratik, James Gung, Yubin Ge, Monica Sunkara, Yi 
 *COLM 2025 Workshop on AI Agents: Capabilities and Safety*
 
 [ToW: Thoughts of Words Improve Reasoning in Large Language Models](https://aclanthology.org/2025.naacl-long.1/)   
-Zhikun Xu, Ming Shen, Jacob Dineen, Zhaonan Li, Xiao Ye, Shijie Lu, Aswin RRV, Chitta Baral, Ben Zhou   
+Zhikun Xu\*, Ming Shen\*, Jacob Dineen, Zhaonan Li, Xiao Ye, Shijie Lu, Aswin RRV, Chitta Baral, Ben Zhou   
 *in Proceedings of NAACL 2025*
 
 [QA-LIGN: Aligning LLMs through Constitutionally Decomposed QA](https://aclanthology.org/2025.findings-emnlp.1123.pdf)   
