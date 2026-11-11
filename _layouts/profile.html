@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<main class="profile-layout">
+  <aside class="profile-sidebar" aria-label="Profile">
+    <img class="profile-portrait" src="{{ site.author.avatar | prepend: '/images/' | prepend: base_path }}" alt="Portrait of {{ site.author.name }}" width="110" height="110">
+    <div class="profile-identity">
+      <h1>{{ site.author.name }}</h1>
+      <p class="profile-role">{{ site.author.bio }}</p>
+      <p class="profile-location">{{ site.author.location }}</p>
+      <nav class="profile-links" aria-label="Profile links">
+        <a href="{{ base_path }}/files/CV.pdf">CV</a>
+        {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}">Google Scholar</a>{% endif %}
+      </nav>
+    </div>
+  </aside>
+
+  <article class="profile-content" aria-labelledby="about-me">
+    <h2 class="profile-about-title" id="about-me">{{ page.title }}</h2>
+    {{ content }}
+  </article>
+
+  <footer class="profile-footer">
+    &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+  </footer>
+</main>

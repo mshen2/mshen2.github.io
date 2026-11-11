@@ -11,21 +11,29 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.layout == 'profile' %} class="profile-site"{% endif %}>
 
     {% include browser-upgrade.html %}
+    {% unless page.layout == 'profile' %}
     {% include masthead.html %}
+    {% endunless %}
 
     {{ content }}
 
+    {% unless page.layout == 'profile' %}
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
       </footer>
     </div>
+    {% endunless %}
 
-    {% include scripts.html %}
+    {% if page.layout == 'profile' %}
+      {% include analytics.html %}
+    {% else %}
+      {% include scripts.html %}
+    {% endif %}
 
   </body>
 </html>

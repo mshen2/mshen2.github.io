@@ -1,4 +1,5 @@
 ---
+layout: profile
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -10,7 +11,9 @@ redirect_from:
 
 I’m an Applied Scientist at Amazon. I did my Ph.D. at Arizona State University, where I’m advised by Chitta Baral and Ben Zhou. My research focuses on natural language processing, particularly how synthetic data can help train more effective NLP systems. Previously, I earned my M.S. in Computer Science from the University of Southern California and my B.S. in Computer Science from Worcester Polytechnic Institute. Before joining Amazon full-time, I completed several applied science internships with the company.
 
-# Publication
+## Publications
+
+<div class="publication-list" markdown="1">
 
 [BOW: Training Language Models to Reason Over Plausible Next Words](https://aclanthology.org/2026.emnlp-main.852.pdf)   
 Ming Shen\*, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou   
@@ -18,7 +21,7 @@ Ming Shen\*, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou
 
 [Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](https://aclanthology.org/2026.aacl-long.3.pdf)   
 Ming Shen, Chao Shang, Sadat Shahriar, Devang Kulshreshtha, Yi Zhang, Sandesh Swamy, Yanjun Qi   
-*in Proceedings of AACL 2026*
+*in Proceedings of AACL 2026 Oral*
 
 [Optimizing LLM-Based Multi-Agent System with Textual Feedback: A Case Study on Software Development](https://arxiv.org/pdf/2505.16086)   
 Ming Shen, Raphael Shu, Anurag Pratik, James Gung, Yubin Ge, Monica Sunkara, Yi Zhang   
@@ -46,7 +49,7 @@ Ming Shen, Jie Ma, Shuai Wang, Yogarshi Vyas, Kalpit Dixit, Miguel Ballesteros, 
 
 [Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction](https://aclanthology.org/2021.acl-short.117.pdf)   
 Ming Shen, Pratyay Banerjee, and Chitta Baral   
-*in Proceedings of ACL-IJCNLP 2021*
+*in Proceedings of ACL 2021*
 
 [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.165.pdf)   
 Bill Yuchen Lin, Wangchunshu Zhou, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yejin Choi, and Xiang Ren   
@@ -54,7 +57,7 @@ Bill Yuchen Lin, Wangchunshu Zhou, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yej
 
 [TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition](https://aclanthology.org/2020.acl-main.752.pdf)   
 Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno, Xiao Huang, Prashant Shiralkar, and Xiang Ren   
-*in Proceedings of ACL-IJCNLP 2020*
+*in Proceedings of ACL 2020*
 
 [Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications](https://arxiv.org/pdf/2510.17764)   
 Xiao Ye, Jacob Dineen, Zhaonan Li, Zhikun Xu, Weiyu Chen, Shijie Lu, Yuxi Huang, Ming Shen, Phu Tran, Ji-Eun Irene Yum, Muhammad Ali Khan, Muhammad Umar Afzal, Irbaz Bin Riaz, Ben Zhou   
@@ -68,15 +71,12 @@ Tung Thai, Ming Shen, Mayank Garg, Ayush Kalani, Nakul Vaidya, Utkarsh Soni, Mud
 Tung Thai, Ming Shen, Neeraj Varshney, Sriram Gopalakrishnan, Utkarsh Soni, Matthias Scheutz, Chitta Baral, and Jivko Sinapov   
 *in Proceedings of AAAI 2022 Symposium: Designing Artificial Intelligence for Open Worlds*
 
-# Project
+</div>
 
-- Demo project for *ACL 2019 System Demonstrations* paper: [AlpacaTag: Active Learning-based Crowd Annotation Framework for Sequence Tagging](https://inklab.usc.edu/AlpacaTag/)
+## Projects
 
-# Awards And Honors
+Demo project for *ACL 2019 System Demonstrations* paper: [AlpacaTag: Active Learning-based Crowd Annotation Framework for Sequence Tagging](https://inklab.usc.edu/AlpacaTag/)
 
-2020 - 2026: University Doctoral Fellowship, Arizona State University   
-2020:           CIDSE Doctoral Fellowship, Arizona State University
-
-# Service
+## Service
 
 Reviewer: ACL, EMNLP, EACL, COLING, WWW
