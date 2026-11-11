@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year Ph.D. student at Arizona State University, co-advised by Prof. Chitta Baral and Prof. Ben Zhou. I am broadly interested in various topics related to natural language processing. My focus is on utilizing synthetic datasets to build effective NLP systems.
-
-# Education
-
-B.S. of Computer Science, Worcester Polytechnic Institute, 2014 — 2018   
-M.S. of Computer Science, University of Southern California, 2018 — 2020   
-Ph.D. of Computer Science, Arizona State University, 2020 — 2026
+I’m an Applied Scientist at Amazon. I did my Ph.D. at Arizona State University, where I’m advised by Chitta Baral and Ben Zhou. My research focuses on natural language processing, particularly how synthetic data can help train more effective NLP systems. Previously, I earned my M.S. in Computer Science from the University of Southern California and my B.S. in Computer Science from Worcester Polytechnic Institute.
 
 # Experience
 
