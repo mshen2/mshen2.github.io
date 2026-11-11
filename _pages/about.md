@@ -34,60 +34,60 @@ Publication
 
 
 [BOW: Training Language Models to Reason Over Plausible Next Words](https://arxiv.org/pdf/2506.13502) \
-**Ming Shen\***, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou \
+Ming Shen\*, Zhikun Xu\*, Jacob Dineen, Xiao Ye, Ben Zhou \
 <em>in Proceedings of EMNLP 2026</em>
 
 
 [Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2608.03239) \
-**Ming Shen**, Chao Shang, Sadat Shahriar, Devang Kulshreshtha, Yi Zhang, Sandesh Swamy, Yanjun Qi \
+Ming Shen, Chao Shang, Sadat Shahriar, Devang Kulshreshtha, Yi Zhang, Sandesh Swamy, Yanjun Qi \
 <em>in Proceedings of AACL 2026</em>
 
 [Optimizing LLM-Based Multi-Agent System with Textual Feedback: A Case Study on Software Development](https://arxiv.org/pdf/2505.16086) \
-**Ming Shen**, Raphael Shu, Anurag Pratik, James Gung, Yubin Ge, Monica Sunkara, Yi Zhang \
+Ming Shen, Raphael Shu, Anurag Pratik, James Gung, Yubin Ge, Monica Sunkara, Yi Zhang \
 <em>COLM 2025 Workshop on AI Agents: Capabilities and Safety</em>
 
 [ToW: Thoughts of Words Improve Reasoning in Large Language Models](https://aclanthology.org/2025.naacl-long.1/) \
-Zhikun Xu\*, **Ming Shen\***, Jacob Dineen, Zhaonan Li, Xiao Ye, Shijie Lu, Aswin RRV, Chitta Baral, Ben Zhou \
+Zhikun Xu\*, Ming Shen\*, Jacob Dineen, Zhaonan Li, Xiao Ye, Shijie Lu, Aswin RRV, Chitta Baral, Ben Zhou \
 <em>in Proceedings of NAACL 2025</em>
 
 [QA-LIGN: Aligning LLMs through Constitutionally Decomposed QA](https://aclanthology.org/2025.findings-emnlp.1123.pdf) \
-Jacob Dineen, Aswin RRV, Qin Liu, Zhikun Xu, Xiao Ye, **Ming Shen**, Zhaonan Li, Shijie Lu, Chitta Baral, Muhao Chen, Ben Zhou \
+Jacob Dineen, Aswin RRV, Qin Liu, Zhikun Xu, Xiao Ye, Ming Shen, Zhaonan Li, Shijie Lu, Chitta Baral, Muhao Chen, Ben Zhou \
 <em>in Findings of EMNLP 2025</em>
 
 [Rethinking Data Selection for Supervised Fine-Tuning](https://arxiv.org/abs/2402.06094) \
-**Ming Shen** \
+Ming Shen \
 <em>arXiv, 2024</em>
 
 [Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models](https://arxiv.org/abs/2310.00015) \
-Man Luo, Shrinidhi Kumbhar, **Ming Shen**, Mihir Parmar, Neeraj Varshney, Chitta Baral, Pratyay Banerjee, Somak Aditya \
+Man Luo, Shrinidhi Kumbhar, Ming Shen, Mihir Parmar, Neeraj Varshney, Chitta Baral, Pratyay Banerjee, Somak Aditya \
 <em>arXiv, 2023</em>
 
 [Simple Yet Effective Synthetic Dataset Construction for Unsupervised Opinion Summarization](https://aclanthology.org/2023.findings-eacl.142.pdf) \
-**Ming Shen**, Jie Ma, Shuai Wang, Yogarshi Vyas, Kalpit Dixit, Miguel Ballesteros, Yassine Benajiba \
+Ming Shen, Jie Ma, Shuai Wang, Yogarshi Vyas, Kalpit Dixit, Miguel Ballesteros, Yassine Benajiba \
 <em>in Findings of EACL 2023</em>
 
 [Unsupervised Pronoun Resolution via Masked Noun-Phrase Prediction](https://aclanthology.org/2021.acl-short.117.pdf) \
-**Ming Shen\***, Pratyay Banerjee\*, and Chitta Baral \
+Ming Shen\*, Pratyay Banerjee\*, and Chitta Baral \
 <em>in Proceedings of ACL-IJCNLP 2021</em>
 
 [CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.165.pdf) \
-Bill Yuchen Lin\*, Wangchunshu Zhou\*, **Ming Shen**, Pei Zhou, Chandra Bhagavatula, Yejin Choi, and Xiang Ren \
+Bill Yuchen Lin\*, Wangchunshu Zhou\*, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yejin Choi, and Xiang Ren \
 <em>in Findings of EMNLP 2020</em>
 
 [TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition](https://aclanthology.org/2020.acl-main.752.pdf) \
-Bill Yuchen Lin\*, Dong-Ho Lee\*, **Ming Shen**, Ryan Moreno, Xiao Huang, Prashant Shiralkar, and Xiang Ren \
+Bill Yuchen Lin\*, Dong-Ho Lee\*, Ming Shen, Ryan Moreno, Xiao Huang, Prashant Shiralkar, and Xiang Ren \
 <em>in Proceedings of ACL-IJCNLP 2020</em>
 
 [Evaluating Medical LLMs by Levels of Autonomy: A Survey Moving from Benchmarks to Applications](https://arxiv.org/pdf/2510.17764) \
-Xiao Ye, Jacob Dineen, Zhaonan Li, Zhikun Xu, Weiyu Chen, Shijie Lu, Yuxi Huang, **Ming Shen**, Phu Tran, Ji-Eun Irene Yum, Muhammad Ali Khan, Muhammad Umar Afzal, Irbaz Bin Riaz, Ben Zhou \
+Xiao Ye, Jacob Dineen, Zhaonan Li, Zhikun Xu, Weiyu Chen, Shijie Lu, Yuxi Huang, Ming Shen, Phu Tran, Ji-Eun Irene Yum, Muhammad Ali Khan, Muhammad Umar Afzal, Irbaz Bin Riaz, Ben Zhou \
 <em>arXiv, 2025</em>
 
 [Methods and Mechanisms for Interactive Novelty Handling in Adversarial Environments](https://arxiv.org/pdf/2302.14208.pdf) \
-Tung Thai, **Ming Shen**, Mayank Garg, Ayush Kalani, Nakul Vaidya, Utkarsh Soni, Mudit Verma, Sriram Gopalakrishnan, Chitta Baral, Subbarao Kambhampati, Jivko Sinapov, Matthias Scheutz \
+Tung Thai, Ming Shen, Mayank Garg, Ayush Kalani, Nakul Vaidya, Utkarsh Soni, Mudit Verma, Sriram Gopalakrishnan, Chitta Baral, Subbarao Kambhampati, Jivko Sinapov, Matthias Scheutz \
 <em>in Proceedings of AAMAS 2023</em>
 
 [An Architecture for Novelty Handling in a Multi-Agent Stochastic Environment: Case Study in Open-World Monopoly](https://usc-isi-i2.github.io/AAAI2022SS/papers/SSS-22_paper_50.pdf) \
-Tung Thai, **Ming Shen**, Neeraj Varshney, Sriram Gopalakrishnan, Utkarsh Soni, Matthias Scheutz, Chitta Baral, and Jivko Sinapov \
+Tung Thai, Ming Shen, Neeraj Varshney, Sriram Gopalakrishnan, Utkarsh Soni, Matthias Scheutz, Chitta Baral, and Jivko Sinapov \
 <em>in Proceedings of AAAI 2022 Symposium: Designing Artificial Intelligence for Open Worlds</em>
 
 
