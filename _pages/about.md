@@ -8,15 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an Applied Scientist at Amazon. I did my Ph.D. at Arizona State University, where I’m advised by Chitta Baral and Ben Zhou. My research focuses on natural language processing, particularly how synthetic data can help train more effective NLP systems. Previously, I earned my M.S. in Computer Science from the University of Southern California and my B.S. in Computer Science from Worcester Polytechnic Institute.
-
-# Experience
-
-Sep. 2026 - Now: Applied Scientist @ Amazon, Seattle  
-Sep. 2025 - Dec. 2025: Applied Scientist Internship @ Amazon, Seattle  
-May. 2024 - Aug. 2024: Applied Scientist Internship @ Amazon, New York  
-May. 2023 - Aug. 2023: Applied Science Internship @ Amazon, New York  
-May. 2022 - Aug. 2022: Applied Scientist Internship @ Amazon, New York
+I’m an Applied Scientist at Amazon. I did my Ph.D. at Arizona State University, where I’m advised by Chitta Baral and Ben Zhou. My research focuses on natural language processing, particularly how synthetic data can help train more effective NLP systems. Previously, I earned my M.S. in Computer Science from the University of Southern California and my B.S. in Computer Science from Worcester Polytechnic Institute. Before joining Amazon full-time, I completed several applied science internships with the company.
 
 # Publication
 
